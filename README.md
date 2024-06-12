@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adithya Venugopal
-- 👀 I’m interested in financial analytics
-- 🌱 I’m currently learning Webscraping in Python
+- 👀 I’m an Analytics Consultant
 - 📫 How to reach me adithya.venugopal@gmail.com
 
 <!---
