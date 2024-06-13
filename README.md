@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adithya Venugopal
-- 👀 I’m an Analytics Consultant
+- 👀 I’m an Analytics Consultant / Data Engineer
 - 📫 How to reach me adithya.venugopal@gmail.com
 
 <!---
